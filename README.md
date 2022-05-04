@@ -1,4 +1,4 @@
-clone project from repository 
+clone project from repository then
 
 ### Run following commands:
 ```
